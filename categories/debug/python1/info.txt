@@ -1,0 +1,13 @@
+Question Title: python1
+
+Question Text: The flag will be in the following format: CWIT_CTF{the characters you added/removed}
+
+Linked file: yes
+
+Hint: try running it to get the error message! (Google how to run a python file if you are unsure how)
+
+How to Solve: add a colon after the if statement
+
+Flag: CWIT_CTF{:}
+
+Difficulty (1-5): 1

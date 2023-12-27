@@ -1,0 +1,13 @@
+Question Title: CWIT Support
+
+Question Text: What is the acronym for the parent group that supports CWIT? (all caps)
+
+Linked file: no
+
+Hint: none
+
+How to Solve: cwit.umbc.edu parent page
+
+Flag: CWIT_CTF{PWIT}
+
+Difficulty (1-5): 1

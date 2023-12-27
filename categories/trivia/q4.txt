@@ -1,0 +1,13 @@
+Question Title: Excellence
+
+Question Text: What are the four types of excellence CWIT focuses on? (All lower case, separated by a comma)
+
+Linked file: no
+
+Hint: none
+
+How to Solve: cwit.umbc.edu values page
+
+Flag: CWIT_CTF{academic,professional,personal,inclusive}
+
+Difficulty (1-5): 2

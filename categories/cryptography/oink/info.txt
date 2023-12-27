@@ -1,0 +1,13 @@
+Question Title: Oink!
+
+Question Text: none
+
+Linked file: yes
+
+Hint: none
+
+How to Solve: pigpen cipher
+
+Flag: CWIT_CTF{WELCOMETOCRYPTOGRAPHY}
+
+Difficulty (1-5): 2

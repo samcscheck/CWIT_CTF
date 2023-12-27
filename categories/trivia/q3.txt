@@ -1,0 +1,13 @@
+Question Title: NASA
+
+Question Text: Katherine Johnson, Dorothy Vaughan, and Mary Jackson worked as human computers at NASA. Specifically, Katherine Johnson calculated trajectories for the first human space flight mission. What was the mission called?
+
+Linked file: no
+
+Hint: none
+
+How to Solve: google!
+
+Flag: CWIT_CTF{Freedom7}
+
+Difficulty (1-5): 1

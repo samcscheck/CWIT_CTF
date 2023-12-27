@@ -1,0 +1,13 @@
+Question Title: Inspector
+
+Question Text: https://samcscheck.github.io/icecream/
+
+Linked file: no
+
+Hint: right click to inspect the page
+
+How to Solve: right click and inspect html, flag is in comments
+
+Flag: CWIT_CTF{htm1_3xp1or3r}
+
+Difficulty (1-5): 3

@@ -1,0 +1,13 @@
+Question Title: UNIVAC
+
+Question Text: What was the last name of the only woman on the team which created the UNIVAC, the first all-electric digital computer?
+
+Linked file: no
+
+Hint: none
+
+How to Solve: google!
+
+Flag: CWIT_CTF{hopper}
+
+Difficulty (1-5): 1

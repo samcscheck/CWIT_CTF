@@ -1,0 +1,13 @@
+Question Title: python2
+
+Question Text: none 
+
+Linked file: yes
+
+Hint: try running it to get the error message! (Google how to run a python file if you are unsure how)
+
+How to Solve: indent line 12 and rerun, the flag will be printed
+
+Flag: CWIT_CTF{1nd3nt}
+
+Difficulty (1-5): 2

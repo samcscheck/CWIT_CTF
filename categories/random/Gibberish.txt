@@ -1,0 +1,13 @@
+Question Title: Gibberish
+
+Question Text: end hinge earring
+
+Linked file: no
+
+Hint: say it out loud ;)
+
+How to Solve: say it out loud!
+
+Flag: CWIT_CTF{engineering}
+
+Difficulty (1-5): 1

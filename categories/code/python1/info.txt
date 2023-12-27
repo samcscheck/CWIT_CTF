@@ -1,0 +1,13 @@
+Question Title: python1
+
+Question Text: ** you may not edit the python file **
+
+Linked file: yes
+
+Hint: read the comments
+
+How to Solve: create a file called flag.txt, run the python file, the flag will print to the .txt file
+
+Flag: CWIT_CTF{n3w_f!l3}
+
+Difficulty (1-5): 3

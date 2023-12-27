@@ -1,0 +1,13 @@
+Question Title: meta
+
+Question Text: When was this file created? (MM/DD/YYYY)
+
+Linked file: yes
+
+Hint: none
+
+How to Solve: look in the metadata of the file to find the creation date
+
+Flag: CWIT_CTF{12/27/2023}
+
+Difficulty (1-5):1
