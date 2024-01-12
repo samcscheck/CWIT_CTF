@@ -1,0 +1,13 @@
+Question Title: hashbrown
+
+Question Text: What is the MD5 hash of the file?
+
+Linked file: yes
+
+Hint: none
+
+How to Solve: md5 filename on the command line or find an online md5 generator
+
+Flag: CWIT_CTF{d2ce5398f0a25d43dfeda72388ac0500}
+
+Difficulty (1-5): 2

@@ -1,0 +1,13 @@
+Question Title: dino
+
+Question Text: none
+
+Linked file: yes
+
+Hint: You may want to google/research stenography!
+
+How to Solve: google a stenography decoder and upload the file
+
+Flag: CWIT_CTF{d1n0s4ur5_rul3!}
+
+Difficulty (1-5): 5

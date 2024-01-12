@@ -1,4 +1,4 @@
-Question Title: Inspector
+Question Title: inspector
 
 Question Text: https://samcscheck.github.io/icecream/
 

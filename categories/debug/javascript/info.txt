@@ -1,0 +1,13 @@
+Question Title: javascript
+
+Question Text: The flag will be in the following format: CWIT_CTF{name of the character(s) you add/removed} 
+
+Linked file: yes
+
+Hint: try running it to get the error message! (Google how to run a javascript file if you are unsure how, or google an online javascript compiler and copy and paste the code)
+
+How to Solve: indent line 12 and rerun, the flag will be printed
+
+Flag: CWIT_CTF{parentheses}
+
+Difficulty (1-5): 2

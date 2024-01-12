@@ -1,0 +1,13 @@
+Question Title: crouton
+
+Question Text: "How is your salad?"   "AITILBQUM"   "Don't talk with your mouth full!"
+
+Linked file: yes
+
+Hint: This looks like a Caesar salad, my favorite! How many croutons are on that salad??
+
+How to Solve: caesar cipher, number of croutons is 8, which is the key
+
+Flag: CWIT_CTF{SALADTIME}
+
+Difficulty (1-5): 2

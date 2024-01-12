@@ -1,15 +1,11 @@
-import os
-
-def secret(a, b):
-    result = ""
-    for i in range(len(a)):
-        result += chr(ord(a[i]) ^ ord(b[i % len(b)]))
-    return result
-
 def main():
-    ctf_flag = "1j;i-~&{	YAS@"
-    decrypted = secret(ctf_flag, "r=")
-print(decrypted)
+    #create two integers 
+    x = 5
+    y = 9
+    #add them together
+    z = x + y
+    print the sum to the console
+    print("x + y = " + str(z))
 
 if __name__ == "__main__":
     main()
