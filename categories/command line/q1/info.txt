@@ -1,0 +1,13 @@
+Question Title: q1
+
+Question Text: The answer will be in the format CWIT_CTF{###}, where the first # is the number of occurrences of the letter "a" in the linux column, the second # is the number of occurrences of the letter "r" in the windows column, and the third # is the number of occurrences of the letter "o" in the macos column.
+
+Linked file: yes
+
+Hint: none
+
+How to Solve: google the missing commands and count the letters in the columns.
+
+Flag: CWIT_CTF{641}
+
+Difficulty (1-5): 1

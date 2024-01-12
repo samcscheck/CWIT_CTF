@@ -1,0 +1,13 @@
+Question Title: q4
+
+Question Text: Within this directory, what would be the output of the command ls after running the command 'cp test.pdf test.docx'? Separate words with a comma in the flag, no spaces.
+
+Linked file: yes
+
+Hint: Pay attention to order.
+
+How to Solve: none.
+
+Flag: CWIT_CTF{calc_prac.pdf,notes,test.docx,test.pdf,test2.pdf}
+
+Difficulty (1-5): 3

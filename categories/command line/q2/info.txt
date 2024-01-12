@@ -1,0 +1,13 @@
+Question Title: q2
+
+Question Text: Within this directory, what would be the output of the command ls? Separate words with a comma in the flag.
+
+Linked file: yes
+
+Hint: none
+
+How to Solve: none.
+
+Flag: CWIT_CTF{art,english,history,math,science}
+
+Difficulty (1-5): 1

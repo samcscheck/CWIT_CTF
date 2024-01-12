@@ -1,0 +1,13 @@
+Question Title: q3
+
+Question Text: Within this directory, what would be the destination directory after running the command 'cd ../..'? 
+
+Linked file: yes
+
+Hint: none
+
+How to Solve: none.
+
+Flag: CWIT_CTF{Desktop}
+
+Difficulty (1-5): 2
