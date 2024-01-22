@@ -10,4 +10,4 @@ How to Solve: decipher the morse code, google morse code alphabet, pause and pla
 
 Flag: CWIT_CTF{semisweet}
 
-Difficulty (1-5): 2
+Difficulty (1-5): 3
